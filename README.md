@@ -1,2 +1,3 @@
-# alexa-economic-indicator
-Alexa skill of economic indicator
+# economic-indicator-reader
+
+Alexa skill of economic indicator reader
