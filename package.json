@@ -1,0 +1,38 @@
+{
+  "name": "economic-indicator-report",
+  "version": "1.0.0",
+  "description": "Alexa skill of economic indicator report",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smallriver0316/economic-indicator-report.git"
+  },
+  "keywords": [
+    "alexa",
+    "lambda",
+    "dynamodb",
+    "econonic",
+    "indicator"
+  ],
+  "author": "smallriver0316",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smallriver0316/economic-indicator-report/issues"
+  },
+  "homepage": "https://github.com/smallriver0316/economic-indicator-report#readme",
+  "devDependencies": {
+    "eslint": "^8.5.0"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.5.1"
+  },
+  "prettier": {
+    "semi": true,
+    "singleQuote": true,
+    "endOfLine": "lf"
+  }
+}
