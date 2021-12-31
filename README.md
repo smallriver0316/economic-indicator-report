@@ -1,3 +1,3 @@
-# economic-indicator-reader
+# Economic Indicator Report
 
-Alexa skill of economic indicator reader
+Alexa skill codes of economic-indicator-report
